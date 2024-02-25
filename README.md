@@ -1,4 +1,5 @@
 <a href="https://app.daily.dev/barthbarnabs"><img src="./devcard.png" width="356" alt="Baráth Barnabás's Dev Card"/></a>
+<a href="https://app.daily.dev/barthbarnabs"><img src="https://api.daily.dev/devcards/v2/2eJl9LmjvdEqoJnT0CFzj.png?type=default&r=n6o" width="356" alt="Baráth Barnabás's Dev Card"/></a>
 
 
 
