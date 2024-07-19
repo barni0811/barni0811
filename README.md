@@ -1,6 +1,3 @@
-<a href="https://app.daily.dev/barthbarnabs"><img src="https://github.com/barni0811/barni0811/blob/main/devcard.png" width="356" alt="Baráth Barnabás's Dev Card"/></a>
-
-
 ### Hi there 👋
 
 <!--
