@@ -6,7 +6,8 @@
 👀 In my free time, I am making a website and a webshop<br>
 🎸 Also learning to play electric guitar, with Youtube videos<br>
 
-My [Linkedin](https://www.linkedin.com/in/bar%C3%A1th-barnab%C3%A1s-4306b331a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Bs3xfXQPSve0ZYCf5FDOKQ%3D%3D)
+💼 [Linkedin](https://www.linkedin.com/in/bar%C3%A1th-barnab%C3%A1s-4306b331a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Bs3xfXQPSve0ZYCf5FDOKQ%3D%3D) <br>
+💻 [Thesis Project](https://drive.google.com/file/d/1Nww884hpzP4_It9RM7FWycy6usZ_ptW4/view?usp=drive_link)
 
 <!--
 **barni0811/barni0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
