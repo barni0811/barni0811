@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Barni!
 
-🧑🏼‍💻 Software Engineer learner
+🧑🏼‍💻 Software Engineer learner<br>
 👨🏻‍🎓 Studied Software Engineering at the University of Pannon, Veszprém<br>
 💭 Currently learning Laracasts courses and livewire course<br>
 👀 In my free time, I am making a website and a webshop<br>
