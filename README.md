@@ -9,7 +9,7 @@
 💼 [Linkedin](https://www.linkedin.com/in/bar%C3%A1th-barnab%C3%A1s-4306b331a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Bs3xfXQPSve0ZYCf5FDOKQ%3D%3D) <br>
 💻 [Thesis Project](https://drive.google.com/file/d/1Nww884hpzP4_It9RM7FWycy6usZ_ptW4/view?usp=drive_link)
 
-<a href="https://app.daily.dev/barthbarnabs"><img src="https://api.daily.dev/devcards/v2/2eJl9LmjvdEqoJnT0CFzj.png?type=wide&r=jop" width="550" alt="Baráth Barnabás's Dev Card"/></a>
+<a href="https://app.daily.dev/barthbarnabs"><img src="https://api.daily.dev/devcards/v2/2eJl9LmjvdEqoJnT0CFzj.png?type=default&r=cfv" width="356" alt="Baráth Barnabás's Dev Card"/></a>
 
 
 
