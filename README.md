@@ -2,7 +2,7 @@
 
 🧑🏼‍💻 Software Engineer learner<br>
 👨🏻‍🎓 Studied [Software Engineering](https://mik.uni-pannon.hu/felvetelizoknek/kepzesek/uzemmernok-informatikus-bprof) at the University of Pannon, Veszprém<br>
-💭 Currently learning [Laracasts]([https://laracasts.com](https://laracasts.com/series/30-days-to-learn-laravel-11)) course - 30 Days to learn laravel 25/30<br>
+💭 Currently learning [Laracasts course](https://laracasts.com/series/30-days-to-learn-laravel-11) - 30 Days to learn laravel 25/30<br>
 👀 In my free time, I am making a website and a webshop<br>
 🎸 Also learning to play electric guitar, with Youtube videos<br>
 
