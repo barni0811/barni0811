@@ -32,10 +32,10 @@ In my free time, I am making a website and a webshop<br>
 <br>
 <div align="center">
   <a>
-    <img height=200 src="https://streak-stats.demolab.com?user=barni0811&hide_total_contributions=true&theme=react" />
+    <img height=200 src="https://streak-stats.demolab.com?user=barni0811&hide_total_contributions=true&theme=react&card_width=400" />
   </a>
   <a>
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=barni0811&theme=react&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=barni0811&theme=react&layout=compact&langs_count=8&card_width=200" />
   </a>
 </div>
 
