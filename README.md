@@ -1,28 +1,63 @@
-### 👋 Hi, I'm Barni!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=barni0811.barni0811" />
 
-🧑🏼‍💻 Software Engineer learner<br>
-👨🏻‍🎓 Studied [Software Engineering](https://mik.uni-pannon.hu/felvetelizoknek/kepzesek/uzemmernok-informatikus-bprof) at the University of Pannon, Veszprém<br>
-💭 Currently learning [Laracasts course](https://laracasts.com/series/30-days-to-learn-laravel-11) - 30 Days to learn laravel 30/30<br>
-👀 In my free time, I am making a website and a webshop<br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Baráth+Barnabás!;" />
+</h1>
 
-💼 [Linkedin](https://www.linkedin.com/in/bar%C3%A1th-barnab%C3%A1s-4306b331a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Bs3xfXQPSve0ZYCf5FDOKQ%3D%3D) <br>
-💻 [Thesis Project](https://drive.google.com/file/d/1Nww884hpzP4_It9RM7FWycy6usZ_ptW4/view?usp=drive_link)
+<h4 align="center">
+I'm a passionate software developer from Hungary 🇭🇺
 
-<a href="https://app.daily.dev/barthbarnabs"><img src="https://api.daily.dev/devcards/v2/2eJl9LmjvdEqoJnT0CFzj.png?type=default&r=cfv" width="356" alt="Baráth Barnabás's Dev Card"/></a>
+I studied [Software Engineering](https://mik.uni-pannon.hu/felvetelizoknek/kepzesek/uzemmernok-informatikus-bprof) at the University of Pannon, Veszprém<br><br>
+Currently learning [Yelo Code course](https://www.youtube.com/playlist?list=PLqDySLfPKRn543NM_fTrJRdhjBgsogzSC) - Laravel Livewire 3 course (Beginners)<br>
+Finished courses: [Laracasts course](https://laracasts.com/series/30-days-to-learn-laravel-11) - 30 Days to learn laravel<br>
+In my free time, I am making a website and a webshop<br>
+
+</h3>
+
+<div align="center"> 
+  <a href="mailto:barnibarath@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/bar%C3%A1th-barnab%C3%A1s-4306b331a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Bs3xfXQPSve0ZYCf5FDOKQ%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://drive.google.com/file/d/1Nww884hpzP4_It9RM7FWycy6usZ_ptW4/view?usp=drive_link" target="_blank">
+     <img src="https://img.shields.io/badge/Thesis Project Video-333333?style=for-the-badge&logo=Video&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">Stats</h2>
+<br>
+<div align="center">
+  <a href="https://github.com/barni0811/github-streak-stats">
+    <img height=200 src="https://streak-stats.demolab.com?user=barni0811&theme=react" />
+  </a>
+  <a href="https://github.com/barni0811/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=barni0811&theme=react" />
+  </a>
+  <a href="https://github.com/barni0811/convoychat">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=barni0811&theme=react&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+
+<hr/>
+ 
+<h2 align="center">Languages/Frameworks-IDE-Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,python,javascript,nodejs,jquery,c,cs,cpp,html,css,php,laravel,tailwind&theme=light" /> <br><br>
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,figma&theme=light" /><br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,discord,notion&theme=light" /><br>
+
+</div>
 
 
+<hr/>
+ 
+<h2 align="center">Daily Dev Profile</h2>
+<br>
+<div align="center">
+<a href="https://app.daily.dev/barthbarnabs"><img src="https://api.daily.dev/devcards/v2/2eJl9LmjvdEqoJnT0CFzj.png?type=wide&r=wda" width="652" alt="Baráth Barnabás's Dev Card"/></a></div>
 
-<!--
-**barni0811/barni0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
