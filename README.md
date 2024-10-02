@@ -31,14 +31,14 @@ In my free time, I am making a website and a webshop<br>
 <h2 align="center">Stats</h2>
 <br>
 <div align="center">
-  <a href="https://github.com/barni0811/github-streak-stats">
-    <img height=200 src="https://streak-stats.demolab.com?user=barni0811&theme=react" />
+  <a>
+    <img height=200 src="https://streak-stats.demolab.com?user=barni0811&count_private=true&theme=react" />
   </a>
-  <a href="https://github.com/barni0811/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=barni0811&theme=react" />
+  <a>
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=barni0811&count_private=true&theme=react" />
   </a>
-  <a href="https://github.com/barni0811/convoychat">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=barni0811&theme=react&layout=compact&langs_count=8&card_width=320" />
+  <a>
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=barni0811&count_private=true&theme=react&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
 
