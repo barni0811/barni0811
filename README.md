@@ -6,10 +6,14 @@
 I'm a passionate software developer from Hungary 🇭🇺
 
 I studied [Software Engineering](https://mik.uni-pannon.hu/felvetelizoknek/kepzesek/uzemmernok-informatikus-bprof) at the University of Pannon, Veszprém<br><br>
-Currently learning [Yelo Code course](https://www.youtube.com/playlist?list=PLqDySLfPKRn543NM_fTrJRdhjBgsogzSC) - Laravel Livewire 3 course (Beginners)<br>
-Finished courses: [Laracasts course](https://laracasts.com/series/30-days-to-learn-laravel-11) - 30 Days to learn laravel<br>
-In my free time, I am making a website and a webshop<br>
+Currently learning: <br>
+[Learnify](https://www.youtube.com/playlist?list=PLpKyNBYcYNJec4bUTVZUqxBQF5ezd96RT) - UX/UI Design tutorial<br>
 
+Finished courses: <br>
+[Laracasts](https://laracasts.com/series/30-days-to-learn-laravel-11) - 30 Days to learn laravel<br>
+[Yelo Code](https://www.youtube.com/playlist?list=PLqDySLfPKRn543NM_fTrJRdhjBgsogzSC) - Laravel Livewire 3 course<br>
+[CodeWithMosh](https://www.youtube.com/watch?v=SqcY0GlETPk) - React tutorial<br>
+<br>In my free time, I am learning courses and doing projects<br>
 </h3>
 
 <div align="center"> 
@@ -20,7 +24,10 @@ In my free time, I am making a website and a webshop<br>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://drive.google.com/file/d/1Nww884hpzP4_It9RM7FWycy6usZ_ptW4/view?usp=drive_link" target="_blank">
-     <img src="https://img.shields.io/badge/Thesis Project Video-333333?style=for-the-badge&logo=Video&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Thesis Project Video-333333?style=for-the-badge&logo=Video&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://stitchrevolt.hu" target="_blank">
+     <img src="https://img.shields.io/badge/Webshop Project-333333?style=for-the-badge&logo=Video&logoColor=white" target="_blank" />
   </a>
 </div>
 
