@@ -7,6 +7,7 @@ I'm a passionate software developer from Hungary 🇭🇺
 
 I studied [Software Engineering](https://mik.uni-pannon.hu/felvetelizoknek/kepzesek/uzemmernok-informatikus-bprof) at the University of Pannon, Veszprém<br><br>
 Currently learning: <br>
+[freeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLL5WadUpvMDDMgscIkKyVcVaQUGTQqEQG) - JavaScript Full Course for Beginners<br>
 [Learnify](https://www.youtube.com/playlist?list=PLpKyNBYcYNJec4bUTVZUqxBQF5ezd96RT) - UX/UI Design tutorial<br>
 
 Finished courses: <br>
