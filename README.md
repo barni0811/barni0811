@@ -11,7 +11,6 @@ Currently learning: <br>
 
 Finished courses: <br>
 [Laracasts](https://laracasts.com/series/30-days-to-learn-laravel-11) - 30 Days to learn laravel<br>
-[Yelo Code](https://www.youtube.com/playlist?list=PLqDySLfPKRn543NM_fTrJRdhjBgsogzSC) - Laravel Livewire 3 course<br>
 [CodeWithMosh](https://www.youtube.com/watch?v=SqcY0GlETPk) - React tutorial<br>
 [freeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLL5WadUpvMDDMgscIkKyVcVaQUGTQqEQG) - JavaScript Full Course for Beginners<br>
 <br>In my free time, I am learning courses and doing projects<br>
