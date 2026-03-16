@@ -7,12 +7,6 @@ I'm a passionate software developer from Hungary 🇭🇺
 
 I studied [Software Engineering](https://mik.uni-pannon.hu/felvetelizoknek/kepzesek/uzemmernok-informatikus-bprof) at the University of Pannon, Veszprém<br><br>
 
-Finished courses: <br>
-[Laracasts](https://laracasts.com/series/30-days-to-learn-laravel-11) - 30 Days to learn laravel<br>
-[CodeWithMosh](https://www.youtube.com/watch?v=SqcY0GlETPk) - React tutorial<br>
-[freeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLL5WadUpvMDDMgscIkKyVcVaQUGTQqEQG) - JavaScript Full Course for Beginners<br>
-</h3>
-
 <div align="center"> 
   <a href="mailto:barnibarath@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
