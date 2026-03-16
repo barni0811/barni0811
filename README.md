@@ -48,12 +48,3 @@ Finished courses: <br>
     <img src="https://skillicons.dev/icons?i=git,github,discord,notion&theme=light" /><br>
 
 </div>
-
-
-<hr/>
- 
-<h2 align="center">Daily Dev Profile</h2>
-<br>
-<div align="center">
-<a href="https://app.daily.dev/barthbarnabs"><img src="https://api.daily.dev/devcards/v2/2eJl9LmjvdEqoJnT0CFzj.png?type=wide&r=wda" width="652" alt="Baráth Barnabás's Dev Card"/></a></div>
-
