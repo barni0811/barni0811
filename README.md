@@ -6,9 +6,6 @@
 I'm a passionate software developer from Hungary 🇭🇺
 
 I studied [Software Engineering](https://mik.uni-pannon.hu/felvetelizoknek/kepzesek/uzemmernok-informatikus-bprof) at the University of Pannon, Veszprém<br><br>
-Currently learning: <br>
-[Learnify](https://www.youtube.com/playlist?list=PLpKyNBYcYNJec4bUTVZUqxBQF5ezd96RT) - UX/UI Design tutorial<br>
-[Envato Tuts+](https://www.youtube.com/watch?v=YGqCZjdgJJk) - Build a REST API With Laravel: PHP Full Course<br>
 
 Finished courses: <br>
 [Laracasts](https://laracasts.com/series/30-days-to-learn-laravel-11) - 30 Days to learn laravel<br>
